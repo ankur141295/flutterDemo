@@ -1,0 +1,6 @@
+package com.example.gogamedemo
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
